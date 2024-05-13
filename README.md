@@ -18,4 +18,4 @@ Flask code - /backend
 
 Dasboard -
 
-![image](https://manage-user-activity.vercel.app/dashboard)
+![image](./Dashboard.png)
